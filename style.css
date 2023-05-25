@@ -1,6 +1,9 @@
 h1 {
   background-color: azure;
+  color: green;
 }
 p{
   background-color: orange;
-  font-size: 22px;}
+  font-size: 22px;
+  color: red;
+}
